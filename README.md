@@ -19,6 +19,6 @@ Se muestra una opción para filtrar a cada pokemón según la característica qu
 
 *El diseño es libre, y aquí tienes un ejemplo.*
 
-![vista principal](https://github.com/GreciaGA/Pokeapi-IESTP-MM/blob/master/src/img/index.html)
+![vista principal](https://watner.github.io/Pokeapi-IESTP-MM/index.html)
 
-![vista principal](https://github.com/GreciaGA/Pokeapi-IESTP-MM/blob/master/src/img/index.html)
+![vista principal](https://watner.github.io/Pokeapi-IESTP-MM/index.html)
